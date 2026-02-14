@@ -73,7 +73,7 @@ Replace the source link in the audio tag:
 Find the celebration section and customize the message:
 ```html
 <p><strong>When:</strong> Whenever you want jaanemann</p>
-<p><strong>Where:</strong> Our favorite spot</p>
+<p><strong>Where:</strong> Our Waffle date!</p>
 ```
 
 ## 🎵 Music Note
